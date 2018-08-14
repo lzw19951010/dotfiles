@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/zjjiang/ficus1/face/service/storage_service/feature_compressor/comp/7/4'
+let g:netrw_dirhist_2='/home/zjjiang/.wash'
+let g:netrw_dirhist_3='/ficus173/zjjiang/personal_release/image_loader'
+let g:netrw_dirhist_4='/home/zjjiang/Downloads'
+let g:netrw_dirhist_5='/home/zjjiang/ficus1/storage/video_storage/stream'
+let g:netrw_dirhist_6='/home/zjjiang/ficus1/product/deploy_tool/w'
+let g:netrw_dirhist_7='/home/zjjiang/.tmp'
+let g:netrw_dirhist_8='/ficus173/zjjiang/deploy/face_platform_1.5_video_poc/deploy_tool'
+let g:netrw_dirhist_9='/'
